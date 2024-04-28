@@ -1,5 +1,5 @@
-# LotusEffectAlgorithm
-# Repository Overview
+![LEA](LEA.jpg)
+
 
 This repository contains various directories, each with specific files and functionalities related to our research and development. Here's a detailed explanation of each directory:
 
@@ -33,4 +33,4 @@ Here we introduce a new evolutionary algorithm called the Lotus Effect Algorithm
 If you use our Lotus Effect Algorithm (LEA) or any part of this repository in your work, please cite the following paper:
 Dalirinia, E., Jalali, M., Yaghoobi, M. et al. Lotus effect optimization algorithm (LEA): a lotus nature-inspired algorithm for engineering design optimization. J Supercomput 80, 761–799 (2024). [https://doi.org/10.1007/s11227-023-05513-8](https://doi.org/10.1007/s11227-023-05513-8)
 
-![LEA](LEA.jpg)
+
