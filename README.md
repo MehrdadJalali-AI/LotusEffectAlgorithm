@@ -1,7 +1,7 @@
 
 
 # Lotus Effect Optimization Algorithm (LEA): A Lotus Nature-Inspired Algorithm for Engineering Design Optimization of Multimodal and Unimodal Problems
-<img src="LEA.jpg" width="200">
+<img src="LEA.jpg" width="500">
 
 
 This repository contains various directories, each with specific files and functionalities related to our research and development. Here's a detailed explanation of each directory:
