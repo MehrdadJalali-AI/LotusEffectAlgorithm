@@ -40,7 +40,7 @@ Here are the steps to run the algorithm:
 ## Sequence Diagrams
 - **Unimodal Version of LEA**:
 - <p align="center">
-    <img src="unimodal.png" width="600">
+    <img src="Unimodal.png" width="600">
 </p>
 
 - **Multimodal Version of LEA**: ![LEA](Multimodal.png)
