@@ -1,6 +1,8 @@
 ![LEA](LEA.jpg)
 
 
+# Lotus Effect Optimization Algorithm (LEA): A Lotus Nature-Inspired Algorithm for Engineering Design Optimization
+
 This repository contains various directories, each with specific files and functionalities related to our research and development. Here's a detailed explanation of each directory:
 
 ## 1. LEA
@@ -26,8 +28,11 @@ This folder contains definitions and implementations for four games that have be
 
 Each directory is structured to support specific aspects of our research and development in algorithmic studies and gaming simulations. For further details on each file's usage and implementation, refer to the individual documents within each directory.
 
-## Lotus effect optimization algorithm (LEA): a lotus nature-inspired algorithm for engineering design optimization
-Here we introduce a new evolutionary algorithm called the Lotus Effect Algorithm, which combines efficient operators from the dragonfly algorithm, such as the movement of dragonflies in flower pollination for exploration, with the self-cleaning feature of water on flower leaves known as the lotus effect, for extraction and local search operations. The authors compared this method to other improved versions of the dragonfly algorithm using standard benchmark functions, and it outperformed all other methods according to Fredman's test on 29 benchmark functions. The article also highlights the practical application of LEA in reducing energy consumption in IoT nodes through clustering, resulting in increased packet delivery ratio and network lifetime. Additionally, the performance of the proposed method was tested on real-world problems with multiple constraints, such as the welded beam design optimization problem and the speed-reducer problem applied in a gearbox, and the results showed that LEA performs better than other methods in terms of accuracy.
+## How to Run the Algorithm
+Here are the steps to run the algorithm:
+1. Open the main file in the relevant folder.
+2. Set the optimization function name within the main file.
+3. Run the code and view the results.
 
 ## Citation
 If you use our Lotus Effect Algorithm (LEA) or any part of this repository in your work, please cite the following paper:
