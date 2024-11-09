@@ -48,6 +48,4 @@ Here are the steps to run the algorithm:
     <img src="Multimodal.png" width="600">
 </p>
 
-## Citation
-If you use our Lotus Effect Algorithm (LEA) or any part of this repository in your work, please cite the following paper:
-Dalirinia, E., Jalali, M., Yaghoobi, M. et al. Lotus effect optimization algorithm (LEA): a lotus nature-inspired algorithm for engineering design optimization. J Supercomput 80, 761–799 (2024). [https://doi.org/10.1007/s11227-023-05513-8](https://doi.org/10.1007/s11227-023-05513-8)
+
